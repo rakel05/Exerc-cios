@@ -1,0 +1,23 @@
+Classe de objeto,atributos e metodos - exercicio
+
+	Defina os atributos e metodos do objeto "Professor"
+
+
+
+ATRIBUTOS
+
+	-Formação Academica
+	-Disponibilidade de horario
+
+
+
+
+
+METODOS
+	-Ensinar
+	-Avaliar
+
+
+
+
+
